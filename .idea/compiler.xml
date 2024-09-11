@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="copythecontentofonefiletoanotherfile-chanells-in-java" />
         <module name="Scatter-Gather-IO-in-channels-in-java" />
+        <module name="fileLock-in-java" />
       </profile>
     </annotationProcessing>
   </component>
