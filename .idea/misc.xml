@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/copythecontentofonefiletoanotherfile-chanells-in-java/pom.xml" />
         <option value="$PROJECT_DIR$/Scatter-Gather-IO-in-channels-in-java/pom.xml" />
         <option value="$PROJECT_DIR$/fileLock-in-java/pom.xml" />
+        <option value="$PROJECT_DIR$/memoryMappedFile-in-java/pom.xml" />
+        <option value="$PROJECT_DIR$/fileTransfer-in-java/pom.xml" />
       </list>
     </option>
   </component>

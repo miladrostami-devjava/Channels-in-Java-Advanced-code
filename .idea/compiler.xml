@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="memoryMappedFile-in-java" />
+        <module name="fileTransfer-in-java" />
         <module name="copythecontentofonefiletoanotherfile-chanells-in-java" />
         <module name="Scatter-Gather-IO-in-channels-in-java" />
         <module name="fileLock-in-java" />
